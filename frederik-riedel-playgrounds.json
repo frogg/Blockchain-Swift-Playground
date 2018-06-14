@@ -1,0 +1,42 @@
+{
+  "documents": [
+    {
+      "previewImageURLs": [],
+      "bannerImageURL": "https://raw.githubusercontent.com/frogg/Blockchain-Swift-Playground/master/Blockchain.playgroundbook/Contents/Resources/cover%402x.png",
+      "thumbnailURL": "https://raw.githubusercontent.com/frogg/Blockchain-Swift-Playground/master/Blockchain.playgroundbook/Contents/Resources/cover%402x.png",
+      "overviewSubtitle": "Build your own Blockchain in Swift.",
+      "description": "Have you heard about Bitcoin or Ethereum? Or do you even own such cryptocurrencies? They all use an exciting technology called "Blockchain" that allows creating consensus on a decentralized network. In this playground you will create your own blockchain within three minutes and learn what makes this technology so special!",
+      "publishedDate": "2018-06-14T12:00:00+00:00",
+      "url": "https://github.com/frogg/Blockchain-Swift-Playground/blob/master/Blockchain.playgroundbook.zip",
+      "additionalInformation": [
+        {
+          "name": "Publisher:",
+          "value": "Frederik Riedel"
+        },
+        {
+          "name": "Version:",
+          "value": "1.0"
+        },
+        {
+          "type": "date",
+          "name": "Released:",
+          "value": "2018-06-14T12:00:00+00:00"
+        },
+        {
+          "name": "Languages:",
+          "value": "English"
+        }
+      ],
+      "title": "Blockchain Playground",
+      "contentVersion": "1.0",
+      "lastUpdatedDate": "2018-06-14T12:00:00+00:00",
+      "contentIdentifier": "wtf.riedel.blockchain",
+      "sha512": "ce86ce78010d5d761166831ebf1beff9ef3c0cacc034fd194d53da744223749d232fe2df36fa8b1bcd5dff6db255e565fc261a3410dc9d7e6f210b869d90c247"
+    },
+  ],
+  "publisherName": "Frederik Riedel",
+  "title": "Frederik Riedel",
+  "formatVersion": "1.0",
+  "feedIdentifier": "wtf.riedel",
+  "contactURL": "mailto:education@frogg.io"
+}
