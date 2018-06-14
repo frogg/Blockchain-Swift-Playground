@@ -2,8 +2,8 @@
   "documents": [
     {
       "previewImageURLs": [],
-      "bannerImageURL": "https://raw.githubusercontent.com/frogg/Blockchain-Swift-Playground/master/Blockchain.playgroundbook/Contents/Resources/cover%402x.png",
-      "thumbnailURL": "https://raw.githubusercontent.com/frogg/Blockchain-Swift-Playground/master/Blockchain.playgroundbook/Contents/Resources/cover%402x.png",
+      "bannerImageURL": "https://raw.githubusercontent.com/frogg/Blockchain-Swift-Playground/master/DetailsBanner_2x.png",
+      "thumbnailURL": "https://raw.githubusercontent.com/frogg/Blockchain-Swift-Playground/master/StoreBanner_2x.png",
       "overviewSubtitle": "Build your own Blockchain in Swift.",
       "description": "Have you heard about Bitcoin or Ethereum? Or do you even own such cryptocurrencies? They all use an exciting technology called 'Blockchain' that allows creating consensus on a decentralized network. In this playground you will create your own blockchain within three minutes and learn what makes this technology so special!",
       "publishedDate": "2018-06-14T12:00:00+00:00",
