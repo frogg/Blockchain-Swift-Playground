@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Chapters</key>
+	<array>
+		<string>Chapter1-Introduction.playgroundchapter</string>
+		<string>Chapter2-Hashing.playgroundchapter</string>
+		<string>Chapter3-ChainOfBlocks.playgroundchapter</string>
+		<string>Chapter4-YourOwnBlockchain.playgroundchapter</string>
+	</array>
+	<key>ContentIdentifier</key>
+	<string>wtf.riedel.wwdc-2018</string>
+	<key>ContentVersion</key>
+	<string>1.0</string>
+	<key>DeploymentTarget</key>
+	<string>ios11</string>
+	<key>DevelopmentRegion</key>
+	<string>en</string>
+	<key>Name</key>
+	<string>FrederikRiedel</string>
+	<key>SwiftVersion</key>
+	<string>4.0</string>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>ImageReference</key>
+	<string>cover.png</string>
+</dict>
+</plist>
