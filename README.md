@@ -5,7 +5,7 @@ Have you heard about Bitcoin or Ethereum? Or do you even own such cryptocurrenci
 ![Banner](https://raw.githubusercontent.com/frogg/Blockchain-Swift-Playground/master/screenshots/banner.PNG)
 
 # How to install (iPad only)
-1. Download the Swift Playgrounds App from the App Store.
+1. Download the [Swift Playgrounds App](https://itunes.apple.com/us/app/swift-playgrounds/id908519492?mt=8) from the App Store.
 2. [Klick this link](https://developer.apple.com/ul/sp0?url=https://raw.githubusercontent.com/frogg/Blockchain-Swift-Playground/master/frederik-riedel-playgrounds.json) on your iPad to import my playground into the Playgrounds app.
 3. Subscribe to "Frederik Riedel".
 ![Subscribe Screenshot](https://raw.githubusercontent.com/frogg/Blockchain-Swift-Playground/master/screenshots/subscribe.jpg)
