@@ -11,6 +11,7 @@ Have you heard about Bitcoin or Ethereum? Or do you even own such cryptocurrenci
 ![Subscribe Screenshot](https://raw.githubusercontent.com/frogg/Blockchain-Swift-Playground/master/screenshots/subscribe.jpg)
 
 4. Download the Playground from my Subscription Section.
+![Download Screenshot](https://raw.githubusercontent.com/frogg/Blockchain-Swift-Playground/master/screenshots/download.jpg)
 
 # Usage
 I tried to create a smooth experience for my playground. If there's something unclear please feel free to file an issue in this repository!
