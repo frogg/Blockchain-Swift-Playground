@@ -1,4 +1,4 @@
-# Blockchain-Swift-Playground
+# Build your own Blockchain in Swift!
 
 Have you heard about Bitcoin or Ethereum? Or do you even own such cryptocurrencies? They all use an exciting technology called 'Blockchain' that allows creating consensus on a decentralized network. In this playground you will create your own blockchain within three minutes and learn what makes this technology so special!
 
